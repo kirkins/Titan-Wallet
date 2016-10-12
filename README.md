@@ -3,4 +3,4 @@ A BlackBerry 10 application which scans bar-code based reward/gift cards then re
 
 Developed by: Philip Kirkbride, Taylor Brynes, and Gyubok Baik in 2014.
 
-Read more: crackberry.com/store-passwords-rewards-cards-and-bank-cards-safely-titan-wallet
+Read more: http://crackberry.com/store-passwords-rewards-cards-and-bank-cards-safely-titan-wallet
