@@ -1,0 +1,1 @@
+include (../TitanWallet.pro)
